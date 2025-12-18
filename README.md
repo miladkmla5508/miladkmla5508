@@ -13,7 +13,7 @@
 
 - 💡 Deeply passionate about **Computer Vision field 🖼️ in Candlestick Pattern Recognition 📈** for Algorithmic Trading in supporting investment decisions 💹
 
-- 📚 Tracing back to his undergraduate experiences in optimization and beyond artificial intelligence 🤖, he has also explored solutions for **Multi-Period, Multi-Objective, Robust,  and Stochastic Portfolio Optimization 💹⚖️📊**.
+- 📚 Tracing back to my undergraduate experiences in optimization and beyond artificial intelligence 🤖, he has also explored solutions for **Multi-Period, Multi-Objective, Robust,  and Stochastic Portfolio Optimization 💹⚖️📊**.
   
 - 📝 I always **write high-quality articles 📄 in only Q1 journals 🥇 to share my practical experiences and turn theories into actionable insights 🧐**, rather than being just a blind     theoretical paper publisher 👀 or citation catcher 🤢
   
