@@ -5,14 +5,13 @@
   
 <img align="right" alt="miladkmla5508" width = "400" src="https://cdn.prod.website-files.com/61f266e377abdf882aef404f/62161a8c764de9376dbf17ed_Webp.net-gifmaker%20(5).gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miladkmla5508&label=Profile%20views&color=0e75b6&style=flat" alt="miladkmla5508" /> </p>
 
 - 🔭 I’m currently working on **cutting-edge AI technologies, including insights from Graph Theory, SpatioTemporal Reasoning, Bayesian & Causal Inference, Evolutionary Intelligence, and Quantum Compuing.**
   
-- 🕵️‍♂️ I deal with Times series data including **EEG 🧠, traffic 🚦, finance 💹, limit order books 📈, and blockchain on-chain metrics ⛓️**
+- 🕵️‍♂️ I deal with Times series data including **EEG 🧠 in Healthcare, Traffic 🚦 in Transportaion, Limit Order Books 📈, and blockchain on-chain metrics ⛓️ in Finance**
 
--  💡 Deeply passionate about **computer vision field🖼️ in candlestick pattern recognition 📈 for algorithmic trading 💹**
+-  💡 Deeply passionate about **Computer Vision field🖼️ in Candlestick Pattern Recognition 📈 for Algorithmic Trading 💹**
   
 - 📝 I always **write high-quality articles 📄 in only Q1 journals 🥇 to share my practical experiences and turn theories into actionable insights 🧐**, rather than being just a blind     theoretical paper publisher 👀 or citation catcher 🤢
   
