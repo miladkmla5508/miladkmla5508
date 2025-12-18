@@ -9,18 +9,17 @@
 
 - 🔭 I’m currently working on **cutting-edge AI technologies, including insights from Graph Theory, SpatioTemporal Reasoning, Bayesian & Causal Inference, Evolutionary Intelligence, and Quantum Compuing.**
   
-- 🕵️‍♂️ I deal with Times series data including **EEG 🧠 in Healthcare, Traffic 🚦 in Transportaion, Limit Order Books 📈, and blockchain on-chain metrics ⛓️ in Finance**
+- 🕵️‍♂️ I deal with Times Series data including **EEG 🧠 in Healthcare, Traffic 🚦 in Transportaion, Limit Order Books 📈, and blockchain on-chain metrics ⛓️ in Finance**
 
-- 💡 Deeply passionate about **Computer Vision field 🖼️ in Candlestick Pattern Recognition 📈** for Algorithmic Trading in supporting investment decisions 💹
+- 💡 I’m deeply passionate about **Computer Vision field 🖼️ in Candlestick Pattern Recognition 📈** for Algorithmic Vision Trading in supporting investment decisions 💹
 
-- 📚 Tracing back to my undergraduate experiences in optimization and beyond artificial intelligence 🤖, he has also explored solutions for **Multi-Period, Multi-Objective, Robust,  and Stochastic Portfolio Optimization 💹⚖️📊**.
+- 📚 Tracing back to my undergraduate experiences in optimization 🤖, I have also explored solutions for **Multi-Period, Multi-Objective, Robust, and Stochastic Portfolio Optimization 💹⚖️📊**.
   
 - 📝 I always **write high-quality articles 📄 in only Q1 journals 🥇 to share my practical experiences and turn theories into actionable insights 🧐**, rather than being just a blind     theoretical paper publisher 👀 or citation catcher 🤢
   
 - 👨‍💻 All of my projects will be available at [https://github.com/miladkmla5508](https://github.com/miladkmla5508)
 
-- 📫 If you have experience with APIs **(Flask 🐍, FastAPI ⚡, Django REST 🌐)** and deep experience in finance 💵🏦💲, feel free to reach me at ✉️ miladkmla1376@gmail.com
- to collaborate and boost applications!!! 🚀
+- 📫 If you have experience with APIs **(Flask 🐍, FastAPI ⚡, Django REST 🌐)** and deep experience in the aforementioned topics 💵🏦💲, feel free to reach me at ✉️ miladkmla1376@gmail.com to collaborate and boost applications!!! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
