@@ -3,7 +3,7 @@
 <h3 align="center">📉🤖📊 Practical AI × FinTech insights from real-world coding challenges. 
 <h3 align="center"> Learn, Build, and Optimize smarter finance systems 🚀💡📈</h3>
   
-<img align="right" alt="miladkmla5508" width = "500" src="https://cdn.prod.website-files.com/61f266e377abdf882aef404f/62161a8c764de9376dbf17ed_Webp.net-gifmaker%20(5).gif">
+<img align="right" alt="miladkmla5508" width = "400" src="https://cdn.prod.website-files.com/61f266e377abdf882aef404f/62161a8c764de9376dbf17ed_Webp.net-gifmaker%20(5).gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miladkmla5508&label=Profile%20views&color=0e75b6&style=flat" alt="miladkmla5508" /> </p>
@@ -12,7 +12,7 @@
   
 - 🕵️‍♂️ I deal with Times series data including **EEG 🧠, traffic 🚦, finance 💹, limit order books 📈, and blockchain on-chain metrics ⛓️**
 
--  💡 Deeply passionate about **computer vision 🖼️ in neuroimaging 🧠 and candlestick pattern recognition 📈 for algorithmic trading 💹**
+-  💡 Deeply passionate about **computer vision 🖼️ in candlestick pattern recognition 📈 for algorithmic trading 💹**
   
 - 📝 I always **write high-quality articles 📄 in only Q1 journals 🥇 to share my practical experiences 🧑🏼‍💻 in decision making ✅❌**
 
