@@ -11,9 +11,9 @@
   
 - 🕵️‍♂️ I deal with Times series data including **EEG 🧠 in Healthcare, Traffic 🚦 in Transportaion, Limit Order Books 📈, and blockchain on-chain metrics ⛓️ in Finance**
 
-- 💡 Deeply passionate about **Computer Vision field🖼️ in Candlestick Pattern Recognition 📈 for Algorithmic Trading in supporting investment decisions 💹**
+- 💡 Deeply passionate about **Computer Vision field 🖼️ in Candlestick Pattern Recognition 📈** for Algorithmic Trading in supporting investment decisions 💹
 
-- 📚 Tracing back to his undergraduate experiences in optimization  and beyond artificial intelligence 🤖, he has also explored solutions for **Multi-Period, Multi-Objective, Robust,  and Stochastic Portfolio Optimization 💹⚖️📊**.
+- 📚 Tracing back to his undergraduate experiences in optimization and beyond artificial intelligence 🤖, he has also explored solutions for **Multi-Period, Multi-Objective, Robust,  and Stochastic Portfolio Optimization 💹⚖️📊**.
   
 - 📝 I always **write high-quality articles 📄 in only Q1 journals 🥇 to share my practical experiences and turn theories into actionable insights 🧐**, rather than being just a blind     theoretical paper publisher 👀 or citation catcher 🤢
   
