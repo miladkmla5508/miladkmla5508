@@ -10,13 +10,14 @@
 
 -  💡 Deeply passionate about **computer vision 🖼️ in neuroimaging 🧠 and candlestick pattern recognition 📈 for algorithmic trading 💹**
   
-- 📝 I always **write high-quality articles 📄 in only Q1 journals 🥇 to share my practical experiences 🧑🏼‍💻 in decision making ✅❌.**
+- 📝 I always **write high-quality articles 📄 in only Q1 journals 🥇 to share my practical experiences 🧑🏼‍💻 in decision making ✅❌**
 
-- ⚡ I am here **to turn theories into actionable insights 🧐, rather than being just a blind theoretical paper publisher 👀 or citation catcher 🤢.**
+- ⚡ I am here **to turn theories into actionable insights 🧐, rather than being just a blind theoretical paper publisher 👀 or citation catcher 🤢**
   
 - 👨‍💻 All of my projects will be available at [https://github.com/miladkmla5508](https://github.com/miladkmla5508)
 
-- 📫 How to reach me **miladkmla1376@gmail.com**
+- 📫 If you have experience with APIs (Flask 🐍, FastAPI ⚡, Django REST 🌐) and deep experience in finance 💵🏦💲, feel free to reach me at ✉️ miladkmla1376@gmail.com
+ to collaborate and boost applications!!! 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
