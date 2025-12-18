@@ -1,3 +1,4 @@
+![logo](https://github.com/miladkmla5508/miladkmla5508/blob/main/1744278217056.jpg)
 <h1 align="center">Hi 👋, I'm Milad</h1>
 <h3 align="center">📉🤖📊 Practical AI × FinTech insights from real-world coding challenges. 
 <h3 align="center"> Learn, Build, and Optimize smarter finance systems 🚀💡📈</h3>
