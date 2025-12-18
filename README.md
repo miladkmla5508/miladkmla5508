@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Milad</h1>
 <h3 align="center">👋🤖📊 Practical AI × FinTech insights from real-world coding challenges. 
- <h3 align="center"> Learn, Build, and Optimize smarter finance systems 🚀💡📈</h3>
+<h3 align="center"> Learn, Build, and Optimize smarter finance systems 🚀💡📈</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miladkmla5508&label=Profile%20views&color=0e75b6&style=flat" alt="miladkmla5508" /> </p>
 
