@@ -17,7 +17,7 @@
   
 - 📝 I always **write high-quality articles 📄 in only Q1 journals 🥇 to share my practical experiences and turn theories into actionable insights 🧐**, rather than being just a blind     theoretical paper publisher 👀 or citation catcher 🤢
   
-- 👨‍💻 All of my projects will be available at [https://github.com/miladkmla5508](https://github.com/miladkmla5508)
+- 👨‍💻 All of my projects will be available soon at [https://github.com/miladkmla5508](https://github.com/miladkmla5508) subject to conflict-of-interest and confidentiality considerations
 
 - 📫 If you have experience with APIs **(Flask 🐍, FastAPI ⚡, Django REST 🌐)** and deep experience in the aforementioned topics 💵🏦💲, feel free to reach me at ✉️ miladkmla1376@gmail.com to collaborate and boost applications!!! 🚀
 
