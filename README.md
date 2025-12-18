@@ -12,7 +12,7 @@
   
 - 📝 I always **write high-quality articles 📄 in only Q1 journals 🥇 to share my practical experiences 🧑🏼‍💻 in decision making ✅❌.**
 
-- ⚡ I am here **to turn theories into actionable insights 🧐, rather than being just a blind theoretical paper publisher or citation catcher.**
+- ⚡ I am here **to turn theories into actionable insights 🧐, rather than being just a blind theoretical paper publisher 👀 or citation catcher 🤢.**
   
 - 👨‍💻 All of my projects will be available at [https://github.com/miladkmla5508](https://github.com/miladkmla5508)
 
