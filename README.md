@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Milad</h1>
-<h3 align="center">👋🤖📊 Practical AI × FinTech insights from real-world coding challenges. 
+<h3 align="center">📉🤖📊 Practical AI × FinTech insights from real-world coding challenges. 
 <h3 align="center"> Learn, Build, and Optimize smarter finance systems 🚀💡📈</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miladkmla5508&label=Profile%20views&color=0e75b6&style=flat" alt="miladkmla5508" /> </p>
 
-- 🔭 I’m currently working on **Time-Series, Graph Theory, SpatioTemporal Reasoning, Bayesian & Causal Inference, Evolutionary Intelligence, and Quantum Compuing.**
+- 🔭 I’m currently working on **cutting-edge AI technologies, including insights from Graph Theory, SpatioTemporal Reasoning, Bayesian & Causal Inference, Evolutionary Intelligence, and Quantum Compuing..**
+  
+- 🕵️‍♂️ I deal with Times series data including **EEG 🧠, traffic 🚦, finance 💹, limit order books 📈, and blockchain on-chain metrics ⛓️**
 
-- 👨‍💻 All of my projects are available at [https://github.com/miladkmla5508](https://github.com/miladkmla5508)
+-  💡 Deeply passionate about **computer vision 🖼️ in neuroimaging 🧠 and candlestick pattern recognition 📈 for algorithmic trading 💹**
+  
+- 📝 I always **write high-quality articles 📄 in only Q1 journals 🥇 to share my practical experiences 🧑🏼‍💻 in decision making ✅❌.**
 
-- 📝 I always write high-quality FinTech-oriented articles in Q1 journals and share my practical experiences along the way To make money.
-
-- ⚡ Fun fact **I am here to turn theories into actionable insights, rather than being just a blind theoretical paper publisher or citation catcher.**
+- ⚡ I am here **to turn theories into actionable insights 🧐, rather than being just a blind theoretical paper publisher or citation catcher.**
+  
+- 👨‍💻 All of my projects will be available at [https://github.com/miladkmla5508](https://github.com/miladkmla5508)
 
 - 📫 How to reach me **miladkmla1376@gmail.com**
 
