@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **cutting-edge AI technologies, including insights from Graph Theory, SpatioTemporal Reasoning, Bayesian & Causal Inference, Evolutionary Intelligence, and Quantum Compuing.**
   
-- 🕵️‍♂️ I deal with Times Series data including **EEG 🧠 in Healthcare, Traffic 🚦 in Transportaion, Limit Order Books 📈, and blockchain on-chain metrics ⛓️ in Finance**
+- 🕵️‍♂️ I deal with Times Series data including **EEG 🧠 in Healthcare, Traffic 🚦 in Transportaion, Limit Order Books 📈, and Multi-Layers On-Chain Metrics ⛓️ in Finance**
 
 - 💡 I’m deeply passionate about **Computer Vision field 🖼️ in Candlestick Pattern Recognition 📈** for Algorithmic Vision Trading in supporting investment decisions 💹
 
