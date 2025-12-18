@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miladkmla5508&label=Profile%20views&color=0e75b6&style=flat" alt="miladkmla5508" /> </p>
 
-- 🔭 I’m currently working on **Time-Series, Graph Theory, SpatioTemporal Reasoning, Bayesian & Causal Inference, Evolutionary Intelligence, and Quantum Compuing**
+- 🔭 I’m currently working on **Time-Series, Graph Theory, SpatioTemporal Reasoning, Bayesian & Causal Inference, Evolutionary Intelligence, and Quantum Compuing.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/miladkmla5508](https://github.com/miladkmla5508)
 
-- 📝 I regularly write articles on Q1 journals
+- 📝 I always write high-quality FinTech-oriented articles in Q1 journals and share my practical experiences along the way.
+
+- ⚡ Fun fact **I am here to turn theories into actionable insights, rather than being just a blind theoretical paper publisher or citation catcher.**
 
 - 📫 How to reach me **miladkmla1376@gmail.com**
-
-- ⚡ Fun fact **I am here to turn theories into actionable insights**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
