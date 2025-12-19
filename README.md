@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miladkmla5508&label=Profile%20views&color=0e75b6&style=flat" alt="miladkmla5508" /> </p>
 
-- 🔭 I’m currently working on **cutting-edge AI technologies, including insights from Graph Theory, SpatioTemporal Reasoning, Bayesian & Causal Inference, Evolutionary Intelligence, and Quantum Compuing.**
+- 🔭 I’m currently working on **cutting-edge AI technologies (ML,DL, and RL), including insights from Graph Theory, SpatioTemporal Reasoning, Bayesian & Causal Inference, Evolutionary Intelligence, and Quantum Compuing.**
   
-- 🕵️‍♂️ I work with time-series data, including **EEG signals ⚡ to analyze investors’ Brain 🧠 Functionality in Decision-Making, Traffic Data 🚦 to assess Transportation and Logistics 🚍Capacity, Limit Order Books 📈, and Multi-Layer On-Chain metrics ⛓️ to track Whale 🐋 Wallet activity in cryptocurrency markets 🤑**
+- 🕵️‍♂️ I work with time-series data, including **EEG signals ⚡ to analyze investors’ Brain 🧠 Functionality in Decision-Making, Traffic Data 🚦 to assess Transportation and Logistics 🚍Capacity, Limit Order Books 📈, and Multi-Layer On-Chain metrics ⛓️ to track Whale 🐋 Wallet activity** in cryptocurrency market 🤑
 
 - 💡 I’m deeply passionate about **Computer Vision field 🖼️ in Candlestick Pattern Recognition 📈** for Algorithmic Vision Trading in supporting investment decisions 💹
 
 - 📚 Tracing back to my undergraduate experiences in optimization 🧮, I have also explored solutions for **Multi-Period, Multi-Objective, Robust, and Stochastic Portfolio Optimization 💹⚖️📊**.
   
-- 📝 I always **write high-quality articles 📄 in only Q1 journals 🥇 to share my practical experiences and turn theories into actionable insights 🧐**, rather than being just a blind     theoretical paper publisher 👀 or citation catcher 🤢
+- 📝 I always write **high-quality articles 📄 in only Q1 journals 🥇 to share my practical experiences and turn theories into actionable insights 🧐**, rather than being just a blind     theoretical paper publisher 👀 or citation catcher 🤢
   
 - 👨‍💻 All of my projects will be available soon at [https://github.com/miladkmla5508](https://github.com/miladkmla5508) subject to conflict-of-interest and confidentiality considerations
 
