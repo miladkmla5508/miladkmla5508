@@ -11,7 +11,7 @@
   
 - 🕵️‍♂️ I work with time-series data, including **EEG signals ⚡ to analyze investors’ Brain 🧠 Functionality in Decision-Making, Traffic Data 🚦 to assess Transportation and Logistics 🚍Capacity, Limit Order Books 📈, and Multi-Layer On-Chain metrics ⛓️ to track Whale 🐋 Wallet activity** in cryptocurrency 🤑 market. 
 
-- 💡 I’m deeply passionate about **Computer Vision field 🖼️ in Candlestick Pattern Recognition 📈** for Algorithmic Vision Trading in supporting investment decisions. 💹
+- 💡 I’m deeply passionate about **Computer Vision field 🖼️ in Candlestick Pattern Recognition 📈** for Algorithmic Vision Trading in supporting investment decisions 💱.
 
 - 📚 Tracing back to my undergraduate experiences in optimization 🧮, I have also explored solutions for **Multi-Period, Multi-Objective, Robust, and Stochastic Portfolio Optimization 💹⚖️📊**.
   
@@ -19,7 +19,7 @@
   
 - 👨‍💻 All of my projects will be available soon at **[https://github.com/miladkmla5508](https://github.com/miladkmla5508)** subject to conflict-of-interest and confidentiality considerations.
 
-- 📫 If you have experience with APIs **(Flask 🐍, FastAPI ⚡, Django REST 🌐)** and deep experience in the aforementioned topics 💵🏦💲, feel free to reach me at ✉️ miladkmla1376@gmail.com to collaborate and boost applications!!! 🚀
+- 📫 If you have experience with APIs **(Flask 🐍, FastAPI ⚡, Django REST 🌐)** and deep experience in the aforementioned topics 💵🏦💲, feel free to reach me at ✉️ miladkmla1376@gmail.com to collaborate and boost applications 🚀.
 
 
 
