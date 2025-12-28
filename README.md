@@ -7,16 +7,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miladkmla5508&label=Profile%20views&color=0e75b6&style=flat" alt="miladkmla5508" /> </p>
 
-- 🔭 I’m currently working on **cutting-edge AI technologies (ML,DL, and RL), including insights from Graph Theory, SpatioTemporal Reasoning, Bayesian & Causal Inference, Evolutionary Intelligence, and Quantum Compuing to tackle real-world challenges across diverse fields like Finance 💰, Medicine 💊, and Transportation 🚍.**
-  
-- 🕵️‍♂️ I work with time-series data, including **EEG signals ⚡ to analyze investors’ Brain 🧠 Functionality in Decision-Making, Traffic Data 🚦 to assess Transportation and Logistics 🚍Capacity, Limit Order Books 📈, and Multi-Layer On-Chain metrics ⛓️ to track Whale 🐋 Wallet activity in cryptocurrencies blockchain**. 
+- 🔭 I’m currently working on **cutting-edge AI technologies (ML, DL, and RL)**, incorporating insights from **graph theory, spatiotemporal reasoning, Bayesian and causal inference, evolutionary intelligence, and quantum computing** to tackle real-world challenges across diverse fields such as **finance 💰, medicine 💊, and transportation 🚍**.
 
-- 💡 I’m deeply passionate about **Computer Vision field 🖼️ in charts Pattern Recognition 📈, Feature-Target-Model Regime-Tuning 👨🏼‍🔧** for Algorithmic Trading in supporting investment decisions 💱.
+- 🕵️‍♂️ I work with time-series data, including **EEG signals ⚡ to analyze investors’ brain 🧠 functionality in decision-making, traffic data 🚦 to assess transportation and logistics 🚍 capacity, limit order books 📈, and multi-layer on-chain metrics ⛓️ to track whale 🐋 wallet activity in cryptocurrency blockchain networks**.
 
-- 📚 Tracing back to my undergraduate experiences in optimization 🧮, I have also explored solutions for **Multi-Period, Multi-Objective, Robust, and Stochastic Portfolio Optimization 💹⚖️📊**.
-  
-- 📝 I always write **high-quality articles 📄 in only Q1 journals 🥇 to share my practical experiences and turn theories into actionable insights 🧐**, rather than being just a blind     theoretical paper publisher 🤢 or citation catcher 👀.
-  
+- 💡 I am actively working in the **Computer Vision field 🖼️**, focusing on **chart pattern recognition 📈** and **feature–target–model regime-tuning frameworks 👨🏼‍🔧** for **algorithmic trading assistants** that support **investment decision-making 💱**.
+
+- 📚 Tracing back to my undergraduate experience in optimization 🧮, I have also explored solutions for **multi-period, multi-objective, robust, and stochastic portfolio optimization 💹⚖️📊**.
+
+- 📝 I always write **high-quality articles 📄 in Q1 journals 🥇 to share practical experiences and turn theories into actionable insights 🧐**, rather than being just a blind theoretical paper publisher 🤢 or a citation collector 👀.
+
 - 👨‍💻 All of my projects will be available soon at **[https://github.com/miladkmla5508](https://github.com/miladkmla5508)** subject to conflict-of-interest and confidentiality considerations.
 
 - 📫 If you have experience with APIs **(Flask 🐍, FastAPI ⚡, Django REST 🌐)** and deep experience in the aforementioned topics 💵🏦💲, feel free to reach me at ✉️ miladkmla1376@gmail.com to collaborate and boost applications 🚀.
