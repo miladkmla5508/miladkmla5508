@@ -11,7 +11,7 @@
   
 - 🕵️‍♂️ I work with time-series data, including **EEG signals ⚡ to analyze investors’ Brain 🧠 Functionality in Decision-Making, Traffic Data 🚦 to assess Transportation and Logistics 🚍Capacity, Limit Order Books 📈, and Multi-Layer On-Chain metrics ⛓️ to track Whale 🐋 Wallet activity in cryptocurrencies blockchain**. 
 
-- 💡 I’m deeply passionate about **Computer Vision field 🖼️ in Candlestick Pattern Recognition 📈** for Algorithmic Vision Trading in supporting investment decisions 💱.
+- 💡 I’m deeply passionate about **Computer Vision field 🖼️ in charts Pattern Recognition 📈, Feature-Target-Model Regime-Tuning 👨🏼‍🔧** for Algorithmic Trading in supporting investment decisions 💱.
 
 - 📚 Tracing back to my undergraduate experiences in optimization 🧮, I have also explored solutions for **Multi-Period, Multi-Objective, Robust, and Stochastic Portfolio Optimization 💹⚖️📊**.
   
