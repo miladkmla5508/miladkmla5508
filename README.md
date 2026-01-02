@@ -15,7 +15,7 @@
 
 - 📚 Tracing back to my undergraduate experience in optimization 🧮, I have also explored solutions for **multi-period, multi-objective, robust, and stochastic portfolio optimization 💹⚖️📊**.
 
-- 📝 I always write **high-quality articles 📄 in Q1 journals 🥇 to share practical experiences and turn theories into actionable insights 🧐**, rather than being just a blind theoretical paper publisher 🤢 or a citation collector 👀.
+- 📝 I always write **high-quality articles 📄 in Q1 journals 🥇 exclusively as first author, focusing on translating theory into practical, actionable insights 🧐, rather than producing purely citation-driven 👀 or superficial research 🤢.
 
 - 👨‍💻 All of my projects will be available soon at **[https://github.com/miladkmla5508](https://github.com/miladkmla5508)** subject to conflict-of-interest and confidentiality considerations.
 
