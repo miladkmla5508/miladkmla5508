@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **cutting-edge AI technologies (ML, DL, and RL)**, incorporating insights from **graph theory, spatiotemporal reasoning, Bayesian and causal inference, evolutionary intelligence, and quantum computing** to tackle real-world challenges across diverse fields such as **finance 💰, medicine 💊, and transportation 🚍**.
 
-- 🕵️‍♂️ I work with time-series data, including **EEG signals ⚡ to analyze investors’ brain 🧠 functionality in decision-making, traffic data 🚦 to assess transportation and logistics 🚍 capacity, limit order books 📈, and multi-layer on-chain metrics ⛓️ to track whale 🐋 wallet activity in blockchain**.
+- 🕵️‍♂️ I work with time-series data, including **EEG signals ⚡ to analyze investors’ brain 🧠 functionality in decision-making, traffic data 🚦 to assess transportation and logistics 🚍 capacity, limit order books 📈, and multi-layer on-chain metrics ⛓️ to track whale 🐋 wallets activity in blockchain**.
 
 - 💡 I am actively working in the **Computer Vision field 🖼️**, focusing on **chart pattern recognition 📈** and **feature–target–model regime-tuning frameworks 👨🏼‍🔧** for **algorithmic trading assistants** that support **investment decision-making 💱**.
 
