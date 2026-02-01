@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miladkmla5508&label=Profile%20views&color=0e75b6&style=flat" alt="miladkmla5508" /> </p>
 
-- 🔭 I’m currently working on **cutting-edge AI technologies (ML, DL, and RL)**, incorporating insights from **graph theory, spatiotemporal reasoning, Bayesian and causal inference, evolutionary intelligence, and quantum computing** to address real-world challenges across **medicine 💊, transportation 🚍, and especially finance 💰**.
+- 🔭 I’m currently working on **cutting-edge AI technologies (ML, DL, and RL)**, incorporating insights from **graph theory, spatiotemporal reasoning, Bayesian and causal inference, evolutionary intelligence, and quantum computing** to address real-world challenges across **medicine 💊, transportation 🚍, and especially finance-oriented tasks💰**.
 
-- 🕵️‍♂️ I work with time-series data, including **EEG signals** ⚡ to analyze investors’ brain 🧠 functionality in decision-making, **traffic data** 🚦 to assess transportation and logistics 🚍 capacity, **brokers’ multi-granularity OHLCV and limit order books** to design trading strategies 📈, and **multi-layer on-chain metrics** ⛓️ to track whale 🐋 wallets activity in blockchain.
+- 🕵️‍♂️ I work with large-scale data 🗂️, including **EEG signals 🆘 and MRI-based neuroimaging 🧠** ⚡ for neurological functionality, **traffic data** 🚦 to assess transportation and logistics 🚍 capacity, **brokers’ multi-granularity OHLCV and limit order books** to design trading strategies 💱, and **multi-layer on-chain metrics** ⛓️ to track whale 🐋 wallets activity in blockchain.
 
 - 💡 I am actively working in the **Computer Vision field 🖼️**, focusing on **chart pattern recognition 📈** and **feature–target–model regime-tuning frameworks 👨🏼‍🔧** for **algorithmic trading assistants** that support **investment decision-making 💱**.
 
