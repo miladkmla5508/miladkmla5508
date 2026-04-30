@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects will be available soon at **[https://github.com/miladkmla5508](https://github.com/miladkmla5508)** subject to conflict-of-interest and confidentiality considerations.
 
-- 📫 If you have experience with APIs **(Flask 🐍, FastAPI ⚡, Django REST 🌐)** and deep experience in the aforementioned topics 💵🏦💲, feel free to reach me at ✉️ miladkmla1376@gmail.com to collaborate and boost applications 🚀.
+- 📫 If you have experience with APIs **(Flask 🐍, FastAPI ⚡, Django REST 🌐)** and deep experimental experiences in finance 💵🏦💲, feel free to reach me at ✉️ miladkmla1376@gmail.com to collaborate and boost applications 🚀.
 
 
 
