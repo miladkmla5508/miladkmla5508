@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miladkmla5508&label=Profile%20views&color=0e75b6&style=flat" alt="miladkmla5508" /> </p>
 
-- 🔭 I’m currently working on **cutting-edge AI technologies (ML, DL, and RL) 🤖🧠🇦🇮👾**, incorporating insights from **graph theory, spatiotemporal reasoning, Bayesian and causal inference, evolutionary intelligence, and quantum computing** to address real-world challenges across **medicine 💊, transportation 🚍, and especially finance-oriented tasks💰**.
+- 🔭 I’m currently working on **cutting-edge AI technologies (ML, DL, and RL) 🤖🧠👾**, incorporating insights from **graph theory, spatiotemporal reasoning, Bayesian and causal inference, evolutionary intelligence, and quantum computing** to address real-world challenges across **medicine 💊, transportation 🚍, and especially finance-oriented tasks💰**.
 
 - 🕵️‍♂️ I work with large-scale data 🗂️, including **EEG signals ﮩـﮩﮩ٨ـ🧠ﮩ٨ـﮩﮩ٨ـ and MRI-based neuroimaging ☢️** to understand neurological 🧑‍⚕️ functionality, **traffic data** 🚦 to assess transportation and logistics 🚍 capacity, **brokers’ multi-granularity Bids-Asks in limit order books** to design trading strategies 📊📉, and **multi-layer on-chain metrics** ⛓️ to track whale 🐋 wallets activity in blockchain 🌐.
 
