@@ -17,6 +17,8 @@
 
 - 📝 I write **high-quality articles 📄 only for Q1- and A-ranked journals 🥇 exclusively as first author, focusing on translating theory into practical, actionable insights 🧐,** rather than pursuing publication volume 👀.
 
+- 📝 I prioritize quality over quantity by publishing articles 📄 **exclusively as first author in Q1- and A-ranked journals 🥇**, transforming rigorous theory into practical, actionable insights 🧐 with real-world relevance 🌍.
+
 - 👨‍💻 All of my projects will be available soon at **[https://github.com/miladkmla5508](https://github.com/miladkmla5508)** subject to conflict-of-interest and confidentiality considerations.
 
 - 📫 If you have experience with APIs **(Flask 🐍, FastAPI ⚡, Django REST 🌐)** in the aforementioned financial tasks💵🏦💲, feel free to reach me at ✉️ miladkmla1376@gmail.com to boost applications and products 🚀.
