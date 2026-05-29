@@ -15,7 +15,7 @@
 
 - 📚 Tracing back to my undergraduate experience in optimization 🧮, I have also explored solution approaches for **Multi-period, Multi-objective, and Multi-criteria tasks under certain, robust, fuzzy, and stochastic environments. 💹⚖️📊**.
 
-- 📝 I write **high-quality articles 📄 only for Q1 & A ranked journals 🥇 exclusively as first author, focusing on translating theory into practical, actionable insights 🧐,** rather than establishing publication factory 🤢.
+- 📝 I write **high-quality articles 📄 only for Q1- and A-ranked journals 🥇 exclusively as first author, focusing on translating theory into practical, actionable insights 🧐,** rather than pursuing publication volume 👀.
 
 - 👨‍💻 All of my projects will be available soon at **[https://github.com/miladkmla5508](https://github.com/miladkmla5508)** subject to conflict-of-interest and confidentiality considerations.
 
