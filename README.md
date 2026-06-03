@@ -13,7 +13,7 @@
 
 - 💡 I am actively working in the **Computer Vision field 🖼️**, focusing on **chart pattern recognition 📈** and **feature–target–model regime-tuning frameworks 👨🏼‍🔧** for **algorithmic trading assistants** that support **investment decision-making 💱**.
 
-- 📚 Tracing back to my undergraduate experience in optimization 🧮, I have also explored solution approaches for **Multi-period, Multi-objective, and Multi-criteria tasks under certain, robust, fuzzy, and stochastic environments. 💹⚖️📊**.
+- 📚 Tracing back to my undergraduate experience in optimization 🧮, I have also explored solution approaches for **Multi-period, Multi-objective, and Multi-criteria optimization tasks under certain, robust, fuzzy, and stochastic environments. 💹⚖️📊**.
 
 - 📝 I write **high-quality articles 📄 only for Q1- and A-ranked journals 🥇 exclusively as first author, focusing on translating theory into practical, actionable insights 🧐,** rather than pursuing publication volume 👀.
 
