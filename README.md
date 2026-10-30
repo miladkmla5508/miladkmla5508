@@ -3,7 +3,7 @@
 <h3 align="center">📉🤖📊 Practical AI × FinTech insights from real-world coding challenges. 
 <h3 align="center">  Let's Learn, Build, and Optimize smarter finance systems together🚀💡📈</h3>
 
-<img align="right" alt="miladkmla5508" width = "400" src="https://cdn.prod.website-files.com/61f266e377abdf882aef404f/62161a8c764de9376dbf17ed_Webp.net-gifmaker%20(5).gif">
+<img align="right" alt="miladkmla5508" width = "400" src="https://www.sun-tai.com.tw/upload/images/20230329030030lqlmq.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miladkmla5508&label=Profile%20views&color=0e75b6&style=flat" alt="miladkmla5508" /> </p>
 
