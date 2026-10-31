@@ -1,7 +1,7 @@
 ![logo](https://github.com/miladkmla5508/miladkmla5508/blob/main/1744278217056.jpg)
 <h1 align="center">Hi 👋, I'm Milad</h1>
-<h3 align="center">📉🤖📊 Practical AI × FinTech insights from real-world coding challenges. 
-<h3 align="center">  Let's Learn, Build, and Optimize smarter financial ecosystems together🚀💡📈</h3>
+<h3 align="center">📉🤖📊 Practical AI × FinTech Insights from Real-World Coding Challenges. 
+<h3 align="center">  Let's Learn, Build, and Optimize Smarter Financial Ecosystems Together🚀💡📈</h3>
 
 <p align="center">
   <img src="https://www.sun-tai.com.tw/upload/images/20230329030030lqlmq.gif" width="500" alt="Image">
